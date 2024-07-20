@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pudim\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pudim\\.nuget\\packages"
+    ]
+  }
+}
